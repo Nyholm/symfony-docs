@@ -18,38 +18,8 @@ Members
 -------
 
 Here are all the members of the Code of Conduct enforcement team. You can contact
-any of them by sending an email or tweet. You could also contact all of them at once
-by emailing **coc@symfony.com**.
-
-Lukas Kahwe Smith
-~~~~~~~~~~~~~~~~~
-
-Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Proin enim nibh, susciit sed rhoncus quis, blandit
-quis sapien. Ut congue pharetra rhoncus.
-
-| **Email:** smith@pooteeweet.org
-| **Twitter:** @lsmith
-
-Lukas Kahwe Smith
-~~~~~~~~~~~~~~~~~
-
-Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit
-quis sapien. Ut congue pharetra rhoncus.
-
-| **Email:** smith@pooteeweet.org
-| **Twitter:** @lsmith
-
-Lukas Kahwe Smith
-~~~~~~~~~~~~~~~~~
-
-Lukas is part of symfony core team and working for Liip. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Proin enim nibh, suscipit sed rhoncus quis, blandit
-quis sapien. Ut congue pharetra rhoncus.
-
-| **Email:** smith@pooteeweet.org
-| **Twitter:** @lsmith
+any of them directly using the contact details below or you can also contact all of
+them at once by emailing **coc@symfony.com**.
 
 About the Enforcement Team
 --------------------------
