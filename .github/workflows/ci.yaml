@@ -73,6 +73,14 @@ jobs:
                 working-directory: _build
                 run: php build.php -vvv
 
+            -   name: Upload log file
+                if: ${{ always() }}
+                uses: actions/upload-artifact@v2
+                with:
+                    name: logs.txt
+                    path: _build/logs.txt
+                    retention-days: 5
+
     doctor-rst:
         name: Lint (DOCtor-RST)
 
