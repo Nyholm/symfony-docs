@@ -15,7 +15,7 @@ The following example shows a typical usage of the cache::
     // The callable will only be executed on a cache miss.
     $value = $pool->get('my_cache_key', function (ItemInterface $item) {
         $item->expiresAfter(3600);
-        'abc'
+
         // ... do some HTTP request or heavy computations
         $computedValue = 'foobar';
 
@@ -63,7 +63,7 @@ adapter (template) they use by using the ``app`` and ``system`` key like:
 
         # config/packages/cache.yaml
         framework:
-            cache:
+            caxche:
                 app: cache.adapter.filesystem
                 system: cache.adapter.system
 
