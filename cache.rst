@@ -63,7 +63,7 @@ adapter (template) they use by using the ``app`` and ``system`` key like:
 
         # config/packages/cache.yaml
         framework:
-            caxche:
+            cache:
                 app: cache.adapter.filesystem
                 system: cache.adapter.system
 
@@ -318,7 +318,7 @@ with either :class:`Symfony\\Contracts\\Cache\\CacheInterface` or
     use Symfony\Contracts\Cache\CacheInterface;
 
     // from a controller method
-    public functxion listProducts(CacheInterface $customThingCache)
+    public function listProducts(CacheInterface $customThingCache)
     {
         // ...
     }
