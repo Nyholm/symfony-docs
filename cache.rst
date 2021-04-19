@@ -318,7 +318,7 @@ with either :class:`Symfony\\Contracts\\Cache\\CacheInterface` or
     use Symfony\Contracts\Cache\CacheInterface;
 
     // from a controller method
-    public function listProducts(CacheInterface $customThingCache)
+    public functxion listProducts(CacheInterface $customThingCache)
     {
         // ...
     }
